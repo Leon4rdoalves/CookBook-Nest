@@ -2,8 +2,7 @@
     <img src="https://i.imgur.com/icgjsRQ.png" title="source: imgur.com" width="50%"/>
 </div>
 
-
-<h2>Conteúdos</h2>
+</br>
 
 <table width="100%">
 	<tr>
